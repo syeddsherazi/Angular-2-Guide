@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /node_modules
+=======
+# Folders #
+node_modules/*
+>>>>>>> 9ea989efb90a4e872ba99b14b4288ef44a6e679a
