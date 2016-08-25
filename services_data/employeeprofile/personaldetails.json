@@ -1,0 +1,19 @@
+{
+    "name": "ali",
+    "callingName": "raza",
+    "fatherName": "nasir",
+    "empId": "02006",
+    "cnicNo": "35201-0345302-9",
+    "cnicExpiry": "29/07/1882",
+    "bloodGroup": "A+",
+    "dateOfBirth": "29/07/2012",
+    "gender": "Male",
+    "maritalStatus": "Signle",
+    "religion": "Muslim",
+    "nationality": "Pak",
+    "smoking": "Yes",
+    "passportNo": "",
+    "passportExpiry": "",
+    "drvLicense": "",
+    "drvLicenseExp": ""
+}
